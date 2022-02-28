@@ -1,0 +1,33 @@
+
+1) What did you learn from working on this 
+assignment?
+
+I learned and practiced how to build and use a node program from sketch.
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+
+No logic problem struggle most. But how to factor out the condition check spend me lots of 
+time. I solved this by try every idea I poped up and checked whether it is correct.
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+
+There are some key idea I learned last week in class that be reviewed in the assignment, 
+such as creating nodes and revising nodes in recursion. The process of working this 
+assignment would help me using these skills to solve the programs with similar content.
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+
+No. It is clear.
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+
+3h on coding
+1h on debugging
